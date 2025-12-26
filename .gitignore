@@ -1,0 +1,25 @@
+# OS and Editor files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+node_modules/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
+
+# Personal notes (contributors should keep these local)
+NOTES.md
+notes/
+drafts/
