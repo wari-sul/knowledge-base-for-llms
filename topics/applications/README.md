@@ -18,7 +18,7 @@ Applications are software platforms that users deploy, install, or run. Examples
 ## Adding a New Application
 
 1. Create a directory for your application: `mkdir <app-name>`
-2. Copy the template: `cp ../../../.templates/topic-template.md <app-name>/README.md`
+2. Copy the template: `cp ../../.templates/topic-template.md <app-name>/README.md`
 3. Fill in all relevant sections
 4. Update this README to list your application
 5. Update the main repository README and INDEX
